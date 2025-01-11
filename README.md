@@ -7,7 +7,7 @@ This documentation outlines the steps required to complete the test assessment f
 ## 🏃‍♂️ How to Run
 
 1. Clone the repository using:  
-   `git clone  https://github.com/zzleman/DevelopsToday_Task.git`
+   `git clone https://github.com/zzleman/DevelopsToday_Task.git`
 2. Install the dependencies:  
    `npm install`
 3. Start the development server:  
