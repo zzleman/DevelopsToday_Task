@@ -10,10 +10,10 @@ This documentation outlines the steps required to complete the test assessment f
    `git clone https://github.com/zzleman/DevelopsToday_Task.git`
 2. Install the dependencies:  
    `npm install`
-3. Start the development server:  
-   `npm run dev`
-4. Add .env.local file:
+3. Add .env.local file:
    `NEXT_PUBLIC_URL='https://vpic.nhtsa.dot.gov/api/vehicles'`
+4. Start the development server:  
+   `npm run dev`
 
 ## 💻 Tech Stack
 
