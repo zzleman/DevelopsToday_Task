@@ -12,6 +12,8 @@ This documentation outlines the steps required to complete the test assessment f
    `npm install`
 3. Start the development server:  
    `npm run dev`
+4. Add .env.local file:
+   `NEXT_PUBLIC_URL='https://vpic.nhtsa.dot.gov/api/vehicles'`
 
 ## 💻 Tech Stack
 
